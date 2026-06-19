@@ -47,13 +47,23 @@ My work focuses on backend services, serverless/edge systems, operational dashbo
 
 SaaS and AI platform for local businesses, combining lead capture, messaging workflows, booking/payment flows, dashboards, RBAC, audit trails, and AI-assisted operational actions.
 
+**Focus:** SaaS architecture, API workflows, messaging automation, payments, dashboards, access control, auditability.
+
+---
+
 ### [MargInData](https://margindata.pt)
 
 AI automation and technical implementation work focused on document processing, media workflows, local-first AI pipelines, transcription, OCR, API integrations, and secure data handling.
 
+**Focus:** AI workflows, local/hybrid automation, structured data extraction, API integrations, technical implementation.
+
+---
+
 ### Margin Assistant
 
 Real-time transcription, translation, meeting assistance, and technical explanation workflows using low-latency cloud inference with local fallback options.
+
+**Focus:** transcription, translation, meeting workflows, BYOK/local-first options, operational AI assistance.
 
 ---
 
@@ -68,6 +78,21 @@ Real-time transcription, translation, meeting assistance, and technical explanat
 
 ---
 
+## Profile Fit
+
+I am most aligned with roles and projects around:
+
+* Solutions Engineering
+* Technical Implementation
+* API Integrations
+* AI Automation
+* Internal Tools
+* Product/Platform Operations
+* Backend and workflow automation
+* Secure dashboards and operational systems
+
+---
+
 ## Let's Talk
 
 [LinkedIn](https://linkedin.com/in/margindata) · [Portfolio](https://margindata.pt) · [Email](mailto:miguel@margindata.pt)
@@ -75,6 +100,5 @@ Real-time transcription, translation, meeting assistance, and technical explanat
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=margindatadev&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" height="175" alt="Miguel Gomes GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=margindatadev&theme=tokyonight" height="175" alt="Miguel Gomes GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=margindatadev&theme=tokyonight" height="175" alt="Miguel Gomes GitHub contribution streak" />
 </p>
