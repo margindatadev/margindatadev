@@ -1,4 +1,4 @@
-# Hi, I'm Miguel "MargInData" Gomes ⚡
+# Hi, I'm Miguel "MargInData" Gomes
 ### Full-Stack Software Engineer & Efficiency Architect 
 **Founder of [PertoDaqui](https://pertodaqui.pt) & [MargInData](https://margindata.pt)**
 
