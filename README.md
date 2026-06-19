@@ -78,7 +78,7 @@ Real-time transcription, translation, meeting assistance, and technical explanat
 
 ---
 
-## Profile Fit
+## Engineering Focus
 
 I am most aligned with roles and projects around:
 
