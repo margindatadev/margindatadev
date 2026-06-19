@@ -14,7 +14,7 @@ My work focuses on backend services, serverless/edge systems, operational dashbo
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,django,react,nextjs,astro,tailwind,vite,postgres,docker,cloudflare,aws" alt="Core stack icons" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,django,react,nextjs,angular,astro,tailwind,vite,postgres,docker,cloudflare,aws" alt="Core stack icons" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@ My work focuses on backend services, serverless/edge systems, operational dashbo
   <img src="https://img.shields.io/badge/AI%20Workflows-LangGraph%20%7C%20LangChain%20%7C%20RAG-6B46C1?style=flat-square" alt="AI workflows badge" />
   <img src="https://img.shields.io/badge/Local%20AI-Ollama%20%7C%20Llama%20%7C%20Qwen-white?style=flat-square&logo=ollama&logoColor=black" alt="Local AI badge" />
   <img src="https://img.shields.io/badge/Automation-Python%20%7C%20n8n%20%7C%20Pipelines-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="Automation badge" />
-  <img src="https://img.shields.io/badge/Media%20AI-Whisper%20%7C%20OCR%20%7C%20Processing-blue?style=flat-square" alt="Media AI badge" />
+  <img src="https://img.shields.io/badge/Data-OCR%20%7C%20Whisper%20%7C%20Structured%20Outputs-blue?style=flat-square" alt="Data processing badge" />
   <img src="https://img.shields.io/badge/Payments-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe badge" />
 </p>
 
@@ -47,15 +47,15 @@ My work focuses on backend services, serverless/edge systems, operational dashbo
 
 SaaS and AI platform for local businesses, combining lead capture, messaging workflows, booking/payment flows, dashboards, RBAC, audit trails, and AI-assisted operational actions.
 
-**Focus:** SaaS architecture, API workflows, messaging automation, payments, dashboards, access control, auditability.
+**Technical focus:** SaaS architecture, API workflows, messaging automation, payments, dashboards, access control, logging, and auditability.
 
 ---
 
 ### [MargInData](https://margindata.pt)
 
-AI automation and technical implementation work focused on document processing, media workflows, local-first AI pipelines, transcription, OCR, API integrations, and secure data handling.
+Technical implementation and AI automation work focused on document processing, media workflows, local-first AI pipelines, transcription, OCR, API integrations, and secure data handling.
 
-**Focus:** AI workflows, local/hybrid automation, structured data extraction, API integrations, technical implementation.
+**Technical focus:** AI workflows, local/hybrid automation, structured data extraction, API integrations, backend services, and technical implementation.
 
 ---
 
@@ -63,33 +63,19 @@ AI automation and technical implementation work focused on document processing, 
 
 Real-time transcription, translation, meeting assistance, and technical explanation workflows using low-latency cloud inference with local fallback options.
 
-**Focus:** transcription, translation, meeting workflows, BYOK/local-first options, operational AI assistance.
-
----
-
-## Current Focus
-
-* AI-assisted operational systems
-* API integrations and workflow automation
-* Internal tools and dashboards
-* Local-first and hybrid AI workflows
-* Edge/serverless application architecture
-* Secure automation with logging, access control, and auditability
+**Technical focus:** transcription, translation, meeting workflows, BYOK/local-first options, and operational AI assistance.
 
 ---
 
 ## Engineering Focus
 
-I am most aligned with roles and projects around:
-
-* Solutions Engineering
-* Technical Implementation
-* API Integrations
-* AI Automation
-* Internal Tools
-* Product/Platform Operations
-* Backend and workflow automation
-* Secure dashboards and operational systems
+* Solutions engineering and technical implementation
+* API integrations and workflow automation
+* AI-assisted internal tools and dashboards
+* Backend automation and secure data handling
+* Edge/serverless systems
+* Local-first and hybrid AI workflows
+* Logging, access control, auditability, and GDPR-aware workflows
 
 ---
 
